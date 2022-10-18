@@ -1,0 +1,22 @@
+body {
+    background-image: url("/Users/parisbl/Desktop/Coding/flx-006-js-5-debrief/assets/mysteryman.jpeg");
+    background-size: 65%;
+    background-position: right;
+    background-repeat: no-repeat;
+    color: black;
+    margin-left: 20px;
+
+}
+
+h1 {
+font-size: 70px;
+margin-top: 40px;
+
+}
+#list{
+    font-size: 55px;
+    list-style-type: none;
+    text-align: left;
+    margin-right: 45px;
+   
+}
